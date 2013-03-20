@@ -6,7 +6,7 @@ Vim version: 7.3.874
 
 Vim features: huge
 
-Features included:
+Features:
 
 +arabic          +file_in_path    +mouse_sgr       +tag_binary
 +autocmd         +find_in_path    -mouse_sysmouse  +tag_old_static
